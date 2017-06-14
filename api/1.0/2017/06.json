@@ -1,14 +1,14 @@
 {
   "June": [
     {
-      "title": "What The Hack",
-      "url": "https://landing.careers/hackathon/",
-      "startDate": "June 2",
-      "endDate": "June 3",
+      "title": "Academy Sports + Outdoors B.A.S.S. Nation Eastern Regional",
+      "url": "https://www.bassmaster.com/sites/default/files/2017_eastern_info_sheet_final_0.pdf",
+      "startDate": "June 14",
+      "endDate": "June 16",
       "year": "2017",
-      "city": "Lisbon, Portugal",
-      "host": "Landing.jobs",
-      "length": "24",
+      "city": "Upper Chesapeake Bay, North East, MD",
+      "host": "Magellan",
+      "length": "48",
       "size": "100",
       "travel": "no",
       "prize": "yes",
@@ -17,26 +17,7 @@
       "facebookURL": "",
       "twitterURL": "",
       "googlePlusURL": "",
-      "notes": "Create apps to solve problems that really grinds people's gears. The Hack is made to let you showcase all your coding skills to other participants and to Europe's top companies looking to recruit."
-    },
-    {
-      "title": "ByteHacks",
-      "url": "http://bytehacks.org/",
-      "startDate": "June 24",
-      "endDate": "June 25",
-      "year": "2017",
-      "city": "New York, NY",
-      "host": "Spotify HQ",
-      "length": "24",
-      "size": "150",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/events/672631619588573/",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": "This is an all-women hackathon for high school and college women only."
+      "notes": "Upper Chesapeake Bay and any creeks and canals connecting to the Upper Chesapeake Bay . Maryland Waters only. Only that water open to ALL public fishing will be considered tournament waters. Any waters closed to public fishing will be close to this tournament’s contestants."
     }
   ]
 }
